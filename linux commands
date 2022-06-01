@@ -1,1 +1,28 @@
+mkdir - make directory
+cd - change directory
+ls - list the content of directory
+touch - create empty file
+cat>filename - create new file and edit the content to stop and save it (CTRL+D)
+             - also used to display the content
+cat file1 file2>file - creates new file and content of both files1 and file2 copied to new file  
+ls*.txt - it displays all files with given extension
+pwd - present working directory
+cp - copy a file or a directory
+mv - move a file content
+head - it displays the top 10 lines
+vi - to write a text or data in file
+tail - it displays last 10 lines
+tac - it displays in reverse order of a file
+more - it displays large content by using enter or space bar
+id - display user id,group id
+clear - is used to clear the screen
+grep - search for the given pattren
+diff - removes common content 
+ping - checks the network connectivity (ctrl+z) to stop
+history - review all the commands enterd
+hostname - displays the host name
+hostname -i - display host ip
+chmod - is used to change the user
+
+
 
