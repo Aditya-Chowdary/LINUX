@@ -23,6 +23,14 @@ history - review all the commands enterd
 hostname - displays the host name
 hostname -i - display host ip
 chmod - is used to change the user
+nl - filename - gives number of lines
+wc - number of lines , word , char
+uniq - used to remove duplicate content of continuos line of file
+rmdir - remove empty directory
+rm - remove file
+
+
+
 
 
 
