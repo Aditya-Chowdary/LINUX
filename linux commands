@@ -28,6 +28,8 @@ wc - number of lines , word , char
 uniq - used to remove duplicate content of continuos line of file
 rmdir - remove empty directory
 rm - remove file
+sort filename - sort content in alphabetics order
+
 
 
 
