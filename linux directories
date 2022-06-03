@@ -1,1 +1,21 @@
-
+linux keeps all the devices data in form of files in different locations
+it contains a root directory -> sub - directories ->files
+/ - ia mount point
+--------directories---------
+/bin - user binary files
+/boot - boot loader files
+/dev -device files
+/etc -configuration files
+/home -home directories
+/lib -system libraries
+/media -mount point for removable media
+/mnt -mount point for temporary file systems
+/opt -optional add -on applications
+/sbin - system binaries
+/srv -service data
+/tmp -temporary files
+/usr -user programs
+/var -variable files
+/root -root user directory
+/proc -process information
+/lost+found -misplaced data
