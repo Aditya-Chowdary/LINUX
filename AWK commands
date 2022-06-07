@@ -1,1 +1,3 @@
+awk '{print "text to be print"}'   ---- print the text u given n times untill u terminate by CTRL+D
+awk '/extension/{print}'filename ---- list the extension lines
 
